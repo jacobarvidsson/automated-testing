@@ -1,0 +1,82 @@
+{
+  "errors": [],
+  "warnings": [],
+  "significant": [],
+  "meaningless": [
+    {
+      "name": "Async Component",
+      "baseline": {
+        "name": "Async Component",
+        "runs": 10,
+        "meanDuration": 0.1,
+        "stdevDuration": 0.31622776601683794,
+        "durations": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "meanCount": 1,
+        "stdevCount": 0,
+        "counts": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      "current": {
+        "name": "Async Component",
+        "runs": 10,
+        "meanDuration": 0.1,
+        "stdevDuration": 0.31622776601683794,
+        "durations": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "meanCount": 1,
+        "stdevCount": 0,
+        "counts": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      "durationDiff": 0,
+      "relativeDurationDiff": 0,
+      "isDurationDiffSignificant": false,
+      "countDiff": 0,
+      "relativeCountDiff": 0
+    }
+  ],
+  "countChanged": [],
+  "added": [],
+  "removed": []
+}

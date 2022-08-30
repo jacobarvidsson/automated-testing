@@ -25,6 +25,7 @@
     "@types/jest": "^28.1.8",
     "@types/react-native": "^0.69.5",
     "@types/react-test-renderer": "^18.0.0",
+    "danger": "^11.1.2",
     "react-test-renderer": "18",
     "reassure": "^0.4.1"
   },

@@ -7,8 +7,8 @@
     "android": "expo start --android",
     "ios": "expo start --ios",
     "web": "expo start --web",
-    "test": "jest",
-    "perf-test": "reassure"
+    "test": "jest --config=jest.unit-config.js",
+    "perf-test": "reassure measure"
   },
   "dependencies": {
     "expo": "~46.0.9",
